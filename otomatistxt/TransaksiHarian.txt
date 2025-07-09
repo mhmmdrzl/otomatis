@@ -1,0 +1,4 @@
+B001 Sabun 3 2000
+B002 Sikat 2 5000
+B003 Pasta 4 3000
+B004 Shampoo 1 12000

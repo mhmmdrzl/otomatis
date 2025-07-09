@@ -1,0 +1,5 @@
+K001 Minyak 2 15000
+K002 Gula 3 12000
+K003 Tepung 1 10000
+K004 Kopi 5 7000
+K005 Garam 4 4000
